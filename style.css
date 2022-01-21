@@ -1,0 +1,102 @@
+body {
+  /* box-sizing: border-box; */
+  margin: 8px;
+  background-color: rgb(226,236,255);
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
+main{
+  width: 900px;
+ margin: 20px auto 50px auto;
+ background-color: white;
+}
+
+figure {
+  margin: 0px;
+}
+
+.hero{
+  position:relative;
+}
+
+img.mountain{
+  width: 900px;
+}  
+
+div.title {
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  background-color: rgba(199, 199,199, 0.65);
+  padding: 20px;
+}
+
+h1{
+  background-color: rgba(199, 199,199, 0.65);
+  font-size: 60px;
+  /* text-indent: 20px; */
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 6px;
+}
+
+#lakeid {
+  text-indent: 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+article{
+  /* width:900px; 
+  margin:0 auto; */
+  padding: 10px 110px;
+}
+
+#article-figure > img {
+  width: 300px;
+}
+
+#article-figure {
+  float: right;
+  margin-left: 15px;
+}
+
+figcaption {
+  font-size: 14px;
+  /* margin-left: 15px; */
+}
+
+p.tags {
+  /* margin :10px 110px 20px 110px; */
+  padding: 20px 0px;
+}
+
+p.tags span {
+  font-size: 12px;
+  background-color: #4e8098;
+  padding: 5px 10px;
+  border-radius: 3px;
+  margin-right: 5px;
+  color: #fff;
+}
+
+
+
+
+
+img.scafell{
+  width: 300px;
+}
+
+
+
+
+
+ 
+  
+  
+ 
+ 
